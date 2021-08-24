@@ -1,2 +1,3 @@
-# Beathico.sol
-Beathico Token Contract
+# Beathico.sol ✨
+Beathico Token Contract 
+✨✨✨✨
